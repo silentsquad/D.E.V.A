@@ -1,0 +1,14 @@
+{
+  "name": "d.e.v.a",
+  "version": "0.0.1",
+  "description": "D.E.V.A.: Discord Electronic Voting Automation, a Discord bot designed for polls, votings, and feedback! Customize your poll, whether it be an election for leadership, what game to play, or a server survey!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FireDFL",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
